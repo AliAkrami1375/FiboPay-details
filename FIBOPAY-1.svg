@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="3508" height="2480" viewBox="0 0 3508 2480">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 308.333px;
+        font-family: "Proxima Nova";
+        font-weight: 800;
+      }
+
+      .cls-1, .cls-3 {
+        fill: #123a64;
+      }
+
+      .cls-2, .cls-4 {
+        fill: #0592ff;
+      }
+
+      .cls-3, .cls-4, .cls-5 {
+        fill-rule: evenodd;
+      }
+
+      .cls-5 {
+        fill: #f9fbf6;
+      }
+    </style>
+  </defs>
+  <path id="Rectangle_1_copy_4" data-name="Rectangle 1 copy 4" class="cls-3" d="M641.38,803.693h415.09c129.23,0,234,104.765,234,234v414.8c0,129.23-104.77,234-234,234H641.38c-129.234,0-234-104.77-234-234v-414.8C407.38,908.458,512.146,803.693,641.38,803.693Z"/>
+  <path id="Rectangle_2_copy_6" data-name="Rectangle 2 copy 6" class="cls-4" d="M906.25,927.218l95.27,51.337V1209.94l-95.27-51.33V927.218Z"/>
+  <path id="Rectangle_3_copy_6" data-name="Rectangle 3 copy 6" class="cls-5" d="M805.543,1443.79v117.34l-95.268-51.34V1161.75l95.268,51.34v102.06l195.907-105.13v128.65Zm-0.377-359.74L1001.45,978.722V1107.37L805.166,1212.69V1084.05Z"/>
+</svg>
